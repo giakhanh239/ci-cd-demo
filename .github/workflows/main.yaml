@@ -7,7 +7,7 @@ name: test1
 jobs:
   build:
     name: test build
-    runs-on: macos-11.6.5
+    runs-on: macos-lastest
     steps:
       - uses: actions/checkout@v1
       - uses: actions/setup-java@v1
