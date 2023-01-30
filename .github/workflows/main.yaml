@@ -27,5 +27,4 @@ jobs:
         with:
           artifacts: "build/app/outputs/apk/debug/*.apk"
           token: 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
-          tag_name: 'v1.16'
 
