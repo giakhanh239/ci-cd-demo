@@ -5,10 +5,10 @@ on:
 name: test4
 jobs:
   build:
-    permissions:
-      contents: write
     name: test build
     runs-on: macos-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v1
       - uses: actions/setup-java@v1
