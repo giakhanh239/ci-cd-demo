@@ -1,4 +1,0 @@
-#Mon Jan 30 10:36:19 ICT 2023
-base.0=/Users/khanhng/StudioProjects/ci_cd_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
