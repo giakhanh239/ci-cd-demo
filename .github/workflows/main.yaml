@@ -8,6 +8,8 @@ on:
 name: test4
 jobs:
   build:
+    permissions:
+      contents: write
     name: test build
     runs-on: macos-latest
     steps:
