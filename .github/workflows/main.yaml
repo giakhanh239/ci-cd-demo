@@ -5,7 +5,7 @@ on:
     branches:
       - master
       - main
-name: test3
+name: test4
 jobs:
   build:
     name: test build
