@@ -1,9 +1,7 @@
 on:
   push:
     tags:
-      - 'v*'
-    branches:
-      - master
+      - '*'
 name: test4
 jobs:
   build:
